@@ -6,7 +6,7 @@
  * Time: 20:06
  */
 
-require_once '../DbOperation.php';
+require_once 'DbOperation.php';
 
 $response = array();
 
