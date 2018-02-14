@@ -13,8 +13,8 @@ class DbOperation
     //Constructor
     function __construct()
     {
-        require_once dirname(__FILE__) . 'Constants.php';
-        require_once dirname(__FILE__) . 'DBConnect.php';
+        require_once dirname(__FILE__) . 'https://blooming-fjord-72225.herokuapp.com/Constants.php';
+        require_once dirname(__FILE__) . 'https://blooming-fjord-72225.herokuapp.com/DBConnect.php';
         // opening db connection
         $db = new DbConnect();
         $this->conn = $db->connect();

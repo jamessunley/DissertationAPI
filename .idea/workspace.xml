@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdc2cc30-28e0-41bd-bd74-eaaa51d7288b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DBConnect.php" afterPath="$PROJECT_DIR$/DBConnect.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DBOperation.php" afterPath="$PROJECT_DIR$/DBOperation.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/login.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register.php" afterPath="$PROJECT_DIR$/register.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="register.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="register.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/register.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            <state relative-caret-position="25">
+              <caret line="8" column="72" lean-forward="false" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
               <folding />
             </state>
           </provider>
@@ -48,25 +48,25 @@
       <file leaf-file-name="DBConnect.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DBConnect.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="22" column="65" lean-forward="false" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DBOperation.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DBOperation.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DBOperation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+            <state relative-caret-position="147">
+              <caret line="15" column="85" lean-forward="false" selection-start-line="15" selection-start-column="85" selection-end-line="15" selection-end-column="85" />
               <folding>
-                <marker date="1518625697348" expanded="true" signature="535:591" ph="SELECT id FR... LogIn" />
-                <marker date="1518625697348" expanded="true" signature="843:901" ph="SELECT id, u... LogIn" />
-                <marker date="1518625697348" expanded="true" signature="1489:1553" ph="INSERT INTO LogIn... " />
-                <marker date="1518625697348" expanded="true" signature="1823:2036" ph="INSERT INTO Client... " />
-                <marker date="1518625697348" expanded="true" signature="2308:2503" ph="INSERT INTO Trainer... " />
-                <marker date="1518625697348" expanded="true" signature="2966:3005" ph="SELECT id FR... LogIn" />
+                <marker date="1518626100343" expanded="true" signature="621:677" ph="SELECT id FR... LogIn" />
+                <marker date="1518626100343" expanded="true" signature="929:987" ph="SELECT id, u... LogIn" />
+                <marker date="1518626100343" expanded="true" signature="1575:1639" ph="INSERT INTO LogIn... " />
+                <marker date="1518626100343" expanded="true" signature="1909:2122" ph="INSERT INTO Client... " />
+                <marker date="1518626100343" expanded="true" signature="2394:2589" ph="INSERT INTO Trainer... " />
+                <marker date="1518626100343" expanded="true" signature="3052:3091" ph="SELECT id FR... LogIn" />
               </folding>
             </state>
           </provider>
@@ -81,8 +81,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/login.php" />
-        <option value="$PROJECT_DIR$/DBOperation.php" />
         <option value="$PROJECT_DIR$/register.php" />
+        <option value="$PROJECT_DIR$/DBConnect.php" />
+        <option value="$PROJECT_DIR$/DBOperation.php" />
       </list>
     </option>
   </component>
@@ -153,12 +154,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518625534229</updated>
-      <workItem from="1518625535356" duration="159000" />
+      <workItem from="1518625535356" duration="391000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="159000" />
+    <option name="totallyTimeSpent" value="391000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -194,37 +195,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/constants.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DBConnect.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DBOperation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="16" column="42" lean-forward="false" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-          <folding>
-            <marker date="1518625697348" expanded="true" signature="535:591" ph="SELECT id FR... LogIn" />
-            <marker date="1518625697348" expanded="true" signature="843:901" ph="SELECT id, u... LogIn" />
-            <marker date="1518625697348" expanded="true" signature="1489:1553" ph="INSERT INTO LogIn... " />
-            <marker date="1518625697348" expanded="true" signature="1823:2036" ph="INSERT INTO Client... " />
-            <marker date="1518625697348" expanded="true" signature="2308:2503" ph="INSERT INTO Trainer... " />
-            <marker date="1518625697348" expanded="true" signature="2966:3005" ph="SELECT id FR... LogIn" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/login.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -235,9 +205,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/register.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        <state relative-caret-position="25">
+          <caret line="8" column="72" lean-forward="false" selection-start-line="8" selection-start-column="72" selection-end-line="8" selection-end-column="72" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBConnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="65" lean-forward="false" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DBOperation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="15" column="85" lean-forward="false" selection-start-line="15" selection-start-column="85" selection-end-line="15" selection-end-column="85" />
+          <folding>
+            <marker date="1518626100343" expanded="true" signature="621:677" ph="SELECT id FR... LogIn" />
+            <marker date="1518626100343" expanded="true" signature="929:987" ph="SELECT id, u... LogIn" />
+            <marker date="1518626100343" expanded="true" signature="1575:1639" ph="INSERT INTO LogIn... " />
+            <marker date="1518626100343" expanded="true" signature="1909:2122" ph="INSERT INTO Client... " />
+            <marker date="1518626100343" expanded="true" signature="2394:2589" ph="INSERT INTO Trainer... " />
+            <marker date="1518626100343" expanded="true" signature="3052:3091" ph="SELECT id FR... LogIn" />
+          </folding>
         </state>
       </provider>
     </entry>

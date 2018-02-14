@@ -20,7 +20,7 @@ class DbConnect
      */
     function connect()
     {
-        require_once 'Constants.php';
+        require_once 'https://blooming-fjord-72225.herokuapp.com/Constants.php';
 
         // Connecting to mysql database
         $this->conn = new mysqli(DB_HOST, DB_USERNAME, DB_PASSWORD, DB_NAME);

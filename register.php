@@ -6,7 +6,7 @@
  * Time: 14:42
  */
 //importing required script
-require_once 'DbOperation.php';
+require_once 'https://blooming-fjord-72225.herokuapp.com/DBOperation.php';
 
 $response = array();
 
