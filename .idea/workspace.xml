@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdc2cc30-28e0-41bd-bd74-eaaa51d7288b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DBConnect.php" afterPath="$PROJECT_DIR$/DBConnect.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DBOperation.php" afterPath="$PROJECT_DIR$/DBOperation.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register.php" afterPath="$PROJECT_DIR$/register.php" />
-    </list>
+    <list default="true" id="fdc2cc30-28e0-41bd-bd74-eaaa51d7288b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +54,8 @@
       <file leaf-file-name="DBOperation.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DBOperation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="15" column="85" lean-forward="false" selection-start-line="15" selection-start-column="85" selection-end-line="15" selection-end-column="85" />
+            <state relative-caret-position="240">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding>
                 <marker date="1518626100343" expanded="true" signature="621:677" ph="SELECT id FR... LogIn" />
                 <marker date="1518626100343" expanded="true" signature="929:987" ph="SELECT id, u... LogIn" />
@@ -154,12 +150,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518625534229</updated>
-      <workItem from="1518625535356" duration="391000" />
+      <workItem from="1518625535356" duration="469000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="391000" />
+    <option name="totallyTimeSpent" value="469000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -229,8 +225,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DBOperation.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="15" column="85" lean-forward="false" selection-start-line="15" selection-start-column="85" selection-end-line="15" selection-end-column="85" />
+        <state relative-caret-position="240">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
             <marker date="1518626100343" expanded="true" signature="621:677" ph="SELECT id FR... LogIn" />
             <marker date="1518626100343" expanded="true" signature="929:987" ph="SELECT id, u... LogIn" />
