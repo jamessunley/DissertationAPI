@@ -8,7 +8,7 @@
 
 define('DB_USERNAME', 'sunley95');
 define('DB_PASSWORD', 'Sunderland1');
-define('DB_HOST', 'http://sunleydatabases.cmxl7u2gt87s.eu-west-2.rds.amazonaws.com:3306');
+define('DB_HOST', 'sunleydatabases.cmxl7u2gt87s.eu-west-2.rds.amazonaws.com');
 define('DB_NAME', 'gymbuddy');
 
 define('USER_CREATED', 0);
