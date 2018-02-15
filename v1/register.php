@@ -6,7 +6,7 @@
  * Time: 14:42
  */
 //importing required script
-require_once '../includes/DbOperation.php';
+require_once '../includes/DBOperation.php';
 
 $response = array();
 
