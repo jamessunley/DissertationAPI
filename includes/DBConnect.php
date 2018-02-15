@@ -18,9 +18,9 @@ class DbConnect
      * Establishing database connection
      * @return database connection handler
      */
-    function connect()
+    function connect() 
     {
-        require_once 'Constants.php';
+        require_once 'constants.php';
 
         // Connecting to mysql database
         $this->conn = new mysqli(DB_HOST, DB_USERNAME, DB_PASSWORD, DB_NAME);
