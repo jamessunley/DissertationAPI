@@ -6,10 +6,10 @@
  * Time: 14:38
  */
 
-define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '1234');
-define('DB_HOST', 'localhost:3306');
-define('DB_NAME', 'GymBuddy');
+define('DB_USERNAME', 'sunley95');
+define('DB_PASSWORD', 'Sunderland1');
+define('DB_HOST', 'http://sunleydatabases.cmxl7u2gt87s.eu-west-2.rds.amazonaws.com:3306');
+define('DB_NAME', 'gymbuddy');
 
 define('USER_CREATED', 0);
 define('USER_ALREADY_EXIST', 1);
