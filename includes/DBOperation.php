@@ -13,7 +13,7 @@ class DbOperation
     //Constructor
     function __construct()
     {
-        require_once dirname(__FILE__) . '/Constants.php';
+        require_once dirname(__FILE__) . '/constants.php';
         require_once dirname(__FILE__) . '/DBConnect.php';
         // opening db connection
         $db = new DbConnect();
